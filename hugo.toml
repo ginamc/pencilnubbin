@@ -38,9 +38,9 @@ listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
 [params.breadcrumbs]
-enabled = true
-showCurrentPage = true
-home = "~"
+enabled = false
+# showCurrentPage = false
+# home = '~'
 
 # Social icons
 # [[params.social]]
@@ -56,9 +56,9 @@ home = "~"
 # name = "home"
 # url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
 
 # [[params.menu]]
 # name = "about"
