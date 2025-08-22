@@ -50,15 +50,15 @@ home = "Home"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/"
+url = "/pencilnubbin"
 
 [[params.menu]]
 name = "posts"
-url = "/posts"
+url = "/pencilnubbin/posts"
 
 [[params.menu]]
 name = "about"
-url = "/about"
+url = "pencilnubbin/about"
 
 [[params.menu]]
 name = "medium"
