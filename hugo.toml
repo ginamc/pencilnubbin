@@ -1,7 +1,7 @@
 baseURL = 'ginamc.github.io/pencilnubbin/'
 languageCode = 'en-us'
 title = 'Pencil Nubbin ✏️'
-theme = 'typo'
+themes = 'typo'
 
 [taxonomies]
 tag = 'tags'
@@ -24,7 +24,7 @@ homeCollectionTitle = ' '
 homeCollection = 'posts'
 
 # Lists parameters
-paginationSize = 100
+paginationSize = 12
 listSummaries = true
 listDateFormat = '2 Jan 2006'
 
@@ -35,13 +35,13 @@ showCurrentPage = true
 home = "Home"
 
 # Social icons
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@postsbygina"
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@postsbygina"
 
-[[params.social]]
-name = "substack"
-url = "https://substack.com/@postsbygina"
+# [[params.social]]
+# name = "substack"
+# url = "https://substack.com/@postsbygina"
 
 # Main menu pages
 [[params.menu]]
@@ -55,6 +55,16 @@ url = "/posts"
 [[params.menu]]
 name = "about"
 url = "/about"
+
+[[params.menu]]
+name = "medium"
+url = "https://medium.com/@postsbygina"
+newTab = true
+
+[[params.menu]]
+name = "substack"
+url = "https://substack.com/@postsbygina"
+newTab = true
 
 # Syntax highlight on code blocks
 [markup]
