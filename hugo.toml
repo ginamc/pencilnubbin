@@ -20,6 +20,9 @@ theme = 'auto'
 colorPalette = 'default'
 hideHeader = false
 
+# Favicon
+# faviconPath = 'static/image/'
+
 # Footer
 showFooter = false
 
@@ -39,8 +42,8 @@ listDateFormat = '2 Jan 2006'
 # Breadcrumbs
 [params.breadcrumbs]
 enabled = false
-# showCurrentPage = false
-# home = '~'
+showCurrentPage = true
+home = '~'
 
 # Social icons
 # [[params.social]]
