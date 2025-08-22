@@ -1,6 +1,62 @@
-baseURL = 'https://example.org/'
+baseURL = 'ginamc.github.io/pencilnubbin/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-[module]
-[[module.imports]]
-path = "github.com/tomfran/typo"
+title = 'Pencil Nubbin ✏️'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "Creative writing and essays by Gina"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+# homeIntroTitle = 'Hi!'
+homeIntroContent = 'Creative writing, essays, and more by Gina.'
+
+# Collection to display on home
+homeCollectionTitle = ' '
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+# Social icons
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@postsbygina"
+
+[[params.social]]
+name = "substack"
+url = "https://substack.com/@postsbygina"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
