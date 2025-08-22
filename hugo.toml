@@ -1,11 +1,7 @@
-baseURL = 'ginamc.github.io/pencilnubbin/'
+baseURL = 'https://ginamc.github.io/pencilnubbin/'
 languageCode = 'en-us'
 title = 'Pencil Nubbin ✏️'
-themes = 'typo'
-
-# [module]
-# [[module.imports]]
-# path = "github.com/tomfran/typo"
+theme = 'typo' 
 
 [taxonomies]
 tag = 'tags'
@@ -18,6 +14,9 @@ description = "Creative writing and essays by Gina"
 theme = 'auto'
 colorPalette = 'default'
 hideHeader = false
+
+# Footer
+showFooter = false
 
 # Intro on main page, content is markdown
 # homeIntroTitle = 'Hi!'
@@ -36,7 +35,7 @@ listDateFormat = '2 Jan 2006'
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
-home = "Home"
+home = "~"
 
 # Social icons
 # [[params.social]]
@@ -50,23 +49,23 @@ home = "Home"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/pencilnubbin"
+url = "/"
 
 [[params.menu]]
 name = "posts"
-url = "/pencilnubbin/posts"
+url = "/posts"
+
+# [[params.menu]]
+# name = "about"
+# url = "/about"
 
 [[params.menu]]
-name = "about"
-url = "pencilnubbin/about"
-
-[[params.menu]]
-name = "medium"
+name = "on medium"
 url = "https://medium.com/@postsbygina"
 newTab = true
 
 [[params.menu]]
-name = "substack"
+name = "on substack"
 url = "https://substack.com/@postsbygina"
 newTab = true
 
