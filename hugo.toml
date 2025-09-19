@@ -21,7 +21,7 @@ colorPalette = 'default'
 hideHeader = false
 
 # Favicon
-faviconPath = 'static/favicon.ico'
+favicon = '/static/favicon.ico'
 
 # Footer
 showFooter = false
