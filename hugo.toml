@@ -21,7 +21,7 @@ colorPalette = 'default'
 hideHeader = false
 
 # Favicon
-faviconPath = '/assets/'
+faviconPath = 'static/favicon.ico'
 
 # Footer
 showFooter = false
