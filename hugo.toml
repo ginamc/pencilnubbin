@@ -21,7 +21,7 @@ colorPalette = 'default'
 hideHeader = false
 
 # Favicon
-# faviconPath = 'static/image/'
+faviconPath = '/images/'
 
 # Footer
 showFooter = false
