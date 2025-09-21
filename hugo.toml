@@ -1,7 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My website'
-theme = 'typo'
+# theme = 'typo'
+
+[module]
+[[module.imports]]
+path = "github.com/tomfran/typo"
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
