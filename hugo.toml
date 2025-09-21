@@ -27,6 +27,10 @@ hideHeader = false
 homeIntroContent = """
 Creative writing and photos by Gina.
 """
+#footer
+showFooter = true
+footerContent = "Made with ❤ in NYC | gina c. © 2025"
+
 
 # Collection to display on home
 # homeCollectionTitle = 'Posts'
