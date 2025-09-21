@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ginamc.github.io/pencilnubbin/'
 languageCode = 'en-us'
-title = 'My website'
+title = 'pencil nubbin'
 # theme = 'typo'
 
 [module]
@@ -8,14 +8,14 @@ title = 'My website'
 path = "github.com/tomfran/typo"
 
 # Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
+# googleAnalytics = "G-xxxxxxxxx"
 
 [taxonomies]
 tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "creative writing and photos"
 
 # Appearance settings
 theme = 'auto'
@@ -23,39 +23,38 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+# homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+Creative writing and photos by Gina.
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
+# homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
 
 # Lists parameters
-paginationSize = 100
+paginationSize = 5
 listSummaries = true
 listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
 [params.breadcrumbs]
-enabled = true
-showCurrentPage = true
-home = "Home"
+enabled = false
+showCurrentPage = false
+home = "~"
 
 # Social icons
 [[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[params.social]]
 name = "medium"
-url = "https://medium.com/@user"
+url = "https://medium.com/@postsbygina"
 
 [[params.social]]
-name = "github"
-url = "https://github.com/user"
+name = "substack"
+url = "https://substack.com/@postsbygina"
+
+[[params.social]]
+name = "bookmark"
+url = "https://wordsbydesign.co"
 
 # Main menu pages
 [[params.menu]]
