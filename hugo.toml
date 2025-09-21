@@ -1,6 +1,6 @@
 baseURL = 'https://ginamc.github.io/pencilnubbin/'
 languageCode = 'en-us'
-title = 'pencil nubbin'
+title = 'pencil nubbin ✏️'
 # theme = 'typo'
 
 [module]
@@ -65,9 +65,9 @@ url = "/"
 name = "posts"
 url = "/posts"
 
-[[params.menu]]
-name = "about"
-url = "/about"
+# [[params.menu]]
+# name = "about"
+# url = "/about"
 
 # Syntax highlight on code blocks
 [markup]
