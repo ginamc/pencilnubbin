@@ -3,7 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/pencilnubbin/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pencilnubbin/tags/louisiana/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pencilnubbin/posts/nola2022/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pencilnubbin/tags/new-orleans/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pencilnubbin/tags/photography/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pencilnubbin/posts/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pencilnubbin/tags/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
   </url>
 </urlset>
