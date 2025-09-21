@@ -77,6 +77,19 @@ url = "/posts"
 [markup]
 [markup.highlight]
 style = 'algol'
+defaultMarkdownHandler = 'goldmark'
+[markup.goldmark]
+    duplicateResourceFiles = false
+    [markup.goldmark.extensions]
+        footnote = true
+        [markup.goldmark.extensions.extras.subscript]
+          enable = false
+        [markup.goldmark.extensions.extras.superscript]
+          enable = false
+    [markup.goldmark.renderer]
+        hardWraps = false
+        unsafe = false
+        xhtml = false
 
 # Giscus comments
 [params.giscus]
