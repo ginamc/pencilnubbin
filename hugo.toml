@@ -31,6 +31,9 @@ Creative writing and photos by Gina.
 showFooter = true
 footerContent = "Made with ❤ in NYC | gina c. © 2025"
 
+#single post date format
+singleDateFormat = '2 January 2006'
+
 
 # Collection to display on home
 # homeCollectionTitle = 'Posts'
@@ -38,7 +41,7 @@ homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 5
-listSummaries = false
+listSummaries = true
 listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
@@ -63,11 +66,11 @@ url = "https://wordsbydesign.co"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/"
+url = "/pencilnubbin"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
+name = "archive"
+url = "/pencilnubbin/posts"
 
 # [[params.menu]]
 # name = "about"
