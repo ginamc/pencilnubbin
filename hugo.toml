@@ -18,8 +18,8 @@ tag = 'tags'
 description = "creative writing and photos"
 
 # Appearance settings
-theme = 'auto'
-colorPalette = 'default'
+theme = 'light'
+colorPalette = 'base16-eighties'
 hideHeader = false
 
 # Intro on main page, content is markdown
