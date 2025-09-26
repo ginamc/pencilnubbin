@@ -66,11 +66,11 @@ url = "https://wordsbydesign.co"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/pencilnubbin"
+url = "/"
 
 [[params.menu]]
 name = "archive"
-url = "/pencilnubbin/posts"
+url = "/posts"
 
 # [[params.menu]]
 # name = "about"
