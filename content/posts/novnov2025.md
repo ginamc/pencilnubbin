@@ -22,11 +22,11 @@ I did the Novel Writing challenge by ProWritingAid. They opened up the platform 
 
 Here are some fun screencaps from NovNov (weird, but less mealy-mouthed shorthand).
 
-![Total Word Count for NovNov](/assets/images/novnov2025_totalwordcount.png "My total wordcount for the month was just over 5,000.")
+![Total Word Count for NovNov](https://photos.smugmug.com/Website-assets/n-xpq4r6/Pencil-Nubbin/i-VBzGhgJ/0/NNm44QSXbhdFGsb2Gm8wK4SBrFkfPJqjsdr99FgSC/XL/novnov2025_totalwordcount-XL.png "My total wordcount for the month was just over 5,000.")
 
-![All the badges I earned](/assets/images/novnov2025_badges.png "The lovely badges I earned in the gamification.")
+![All the badges I earned](https://photos.smugmug.com/Website-assets/n-xpq4r6/Pencil-Nubbin/i-xVfqrmN/0/KxWGwn9Bfk83p6HrVTFVpRBj2jdkWgfn66st5wTwS/XL/novnov2025_badges-XL.png "The lovely badges I earned in the gamification.")
 
-![Daily word count progress](/assets/images/novnov2025_progress_dailyword.png "Daily word count progress. As you can see, Day 2 was AMAZING! And then no more.")
+![Daily word count progress](https://photos.smugmug.com/Website-assets/n-xpq4r6/Pencil-Nubbin/i-pZs9rHV/0/MVQZnCDSVpBDPdCbvc2cRWxRvRWgzHsJtqzPH8LF7/L/novnov2025_progress_dailyword-L.png "Daily word count progress. As you can see, Day 2 was AMAZING! And then no more.")
 
 And now that it's December, I'm left feeling something, like, what the f---- do I do now? 
 
