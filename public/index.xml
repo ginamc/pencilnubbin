@@ -6,8 +6,15 @@
     <description>Recent content in Home on pencil nubbin ✏️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pencilnubbin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NovNov 2025, or, what do I do now?</title>
+      <link>http://localhost:1313/pencilnubbin/posts/novnov2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pencilnubbin/posts/novnov2025/</guid>
+      <description>I committed to writing some amount of words. I did not write 50,000 words.</description>
+    </item>
     <item>
       <title>New Orleans, 2022</title>
       <link>http://localhost:1313/pencilnubbin/posts/nola2022/</link>
