@@ -63,6 +63,10 @@ url = "https://substack.com/@postsbygina"
 name = "bookmark"
 url = "https://wordsbydesign.co"
 
+[[params.social]]
+name = "kofi"
+url = "https://ko-fi.com/pencilnubbin/shop"
+
 # Main menu pages
 [[params.menu]]
 name = "home"
@@ -71,10 +75,6 @@ url = "/"
 [[params.menu]]
 name = "archive"
 url = "/posts"
-
-[[params.menu]]
-name = "shop"
-url = "https://ko-fi.com/pencilnubbin/shop"
 
 # [[params.menu]]
 # name = "about"
