@@ -72,6 +72,10 @@ url = "/"
 name = "archive"
 url = "/posts"
 
+[[params.menu]]
+name = "shop"
+url = "https://ko-fi.com/pencilnubbin/shop"
+
 # [[params.menu]]
 # name = "about"
 # url = "/about"
