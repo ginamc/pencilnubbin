@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archive on pencil nubbin ✏️</title>
-    <link>http://localhost:1313/pencilnubbin/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Archive on pencil nubbin ✏️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pencilnubbin/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ko-fi shop open</title>
+      <link>http://localhost:1313/posts/kofi/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kofi/</guid>
+      <description>I&amp;rsquo;ve started a ko-fi shop to share and sell some zines.</description>
+    </item>
     <item>
       <title>NovNov 2025, or, what do I do now?</title>
-      <link>http://localhost:1313/pencilnubbin/posts/novnov2025/</link>
+      <link>http://localhost:1313/posts/novnov2025/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pencilnubbin/posts/novnov2025/</guid>
+      <guid>http://localhost:1313/posts/novnov2025/</guid>
       <description>I committed to writing some amount of words. I did not write 50,000 words.</description>
     </item>
     <item>
       <title>New Orleans, 2022</title>
-      <link>http://localhost:1313/pencilnubbin/posts/nola2022/</link>
+      <link>http://localhost:1313/posts/nola2022/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pencilnubbin/posts/nola2022/</guid>
+      <guid>http://localhost:1313/posts/nola2022/</guid>
       <description>In October 2022, I flew to New Orleans to attend a three-day conference. I spent as much time as I could outside between sessions, walking around the Big Easy. I mostly stayed in the French Quarter to stay close to the conference site.</description>
     </item>
   </channel>

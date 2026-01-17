@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Orleans on pencil nubbin ✏️</title>
-    <link>http://localhost:1313/pencilnubbin/tags/new-orleans/</link>
+    <link>http://localhost:1313/tags/new-orleans/</link>
     <description>Recent content in New Orleans on pencil nubbin ✏️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pencilnubbin/tags/new-orleans/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/new-orleans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Orleans, 2022</title>
-      <link>http://localhost:1313/pencilnubbin/posts/nola2022/</link>
+      <link>http://localhost:1313/posts/nola2022/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pencilnubbin/posts/nola2022/</guid>
+      <guid>http://localhost:1313/posts/nola2022/</guid>
       <description>In October 2022, I flew to New Orleans to attend a three-day conference. I spent as much time as I could outside between sessions, walking around the Big Easy. I mostly stayed in the French Quarter to stay close to the conference site.</description>
     </item>
   </channel>

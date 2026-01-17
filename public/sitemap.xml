@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pencilnubbin/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/kofi/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/photography/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zines/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/novel-november/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pencilnubbin/</loc>
+    <loc>http://localhost:1313/posts/novnov2025/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pencilnubbin/tags/novel-november/</loc>
+    <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pencilnubbin/posts/novnov2025/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pencilnubbin/tags/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pencilnubbin/tags/writing/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pencilnubbin/tags/louisiana/</loc>
+    <loc>http://localhost:1313/tags/louisiana/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pencilnubbin/tags/new-orleans/</loc>
+    <loc>http://localhost:1313/tags/new-orleans/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pencilnubbin/posts/nola2022/</loc>
-    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pencilnubbin/tags/photography/</loc>
+    <loc>http://localhost:1313/posts/nola2022/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
   </url>
 </urlset>
