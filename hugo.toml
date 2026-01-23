@@ -64,6 +64,10 @@ name = "bookmark"
 url = "https://wordsbydesign.co"
 
 [[params.social]]
+name = "instagram"
+url = "https://instragram.com/postsbygina"
+
+[[params.social]]
 name = "kofi"
 url = "https://ko-fi.com/pencilnubbin/shop"
 
